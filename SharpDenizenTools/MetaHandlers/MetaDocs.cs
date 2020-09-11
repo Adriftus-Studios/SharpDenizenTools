@@ -38,7 +38,7 @@ namespace SharpDenizenTools.MetaHandlers
         public static readonly string[] DENIZEN_ADDON_SOURCES = new string[]
         {
             "https://github.com/DenizenScript/Depenizen/archive/master.zip",
-            "https://github.com/AuroraInteractive/dDiscordBot/archive/master.zip",
+            "https://github.com/Adriftus-Studios/dDiscordBot/archive/master.zip",
             "https://github.com/DenizenScript/Webizen/archive/master.zip",
             "https://github.com/DenizenScript/dIRCBot/archive/master.zip"
         };
